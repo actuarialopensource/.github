@@ -2,7 +2,25 @@
 
 > Default [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for all *private/internal* open-source projects.
 
-## Template Repositories
+[![Generate CHANGELOG.md](https://github.com/actuarialopensource/.github/actions/workflows/changelog.yml/badge.svg)](https://github.com/actuarialopensource/.github/actions/workflows/changelog.yml)
+
+## Organization Files
+
+- [CODE_OF_CONDUCT]()
+- [FUNDING]()
+- [CODEOWNERS]()
+- [LICENSE]()
+- [SECURITY]()
+- [SUPPORT]()
+
+## Additional Resources
+
+- [Default Org-Wide Repository Issue Labels]()
+- [Members Listing]()
+
+## Works in Progress Templates/Ideas
+
+### Template Repositories
 
 - [template-terraform-module]()
 - [template-r-package]()
@@ -18,16 +36,3 @@
 - [template-generic-repository]()
 - [template-julia-project]()
 
-## Organization Files
-
-- [CODE_OF_CONDUCT]()
-- [FUNDING]()
-- [CODEOWNERS]()
-- [LICENSE]()
-- [SECURITY]()
-- [SUPPORT]()
-
-## Additional Resources
-
-- [Default Org-Wide Repository Issue Labels]()
-- [Members Listing]()
