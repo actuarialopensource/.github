@@ -1,11 +1,19 @@
 # Actuarial Open Source
 
-> **Info**  
+> **Note**:  
 > A community for actuaries to discuss topics on open source software and technologies.
+
+*Initial Draft Written by [@jimbrig](https://github.com/jimbrig)*
 
 ## About 
 
 A networking place to introduce & discover open source tools for actuaries, to promote your open source projects, to share your knowledge about programming, actuarial modeling, data science, etc.
+
+---
+
+To join the community account, send your github account name to the community administrator.
+
+---
 
 ## Members
 
@@ -54,17 +62,13 @@ A networking place to introduce & discover open source tools for actuaries, to p
 
 </p></details>
 
----
-
-To join the community account, send your github account name to the community administrator.
-
----
-
 ## Contributing Guide
 
 > **Note**: See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 *Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!* :octocat:
+
+<details><summary>🔎 Click to View Full Contributing Guide</summary><p>
 
 ### Contents
 
@@ -343,9 +347,7 @@ If you are reading this, bravo dear user and (hopefully) contributor for making 
 To confirm that you have read this guide and are following it as best as possible, **include this emoji at the top** of your issue or pull request: :black_heart:
 
 ## :pray: Credits
-
-Written by [@jimbrig](https://github.com/jimbrig). 
-
+  
 **Please feel free to adopt this guide in your own projects. Fork it wholesale or remix it for your needs.**
 
 *Many of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:*
@@ -356,4 +358,6 @@ Written by [@jimbrig](https://github.com/jimbrig).
 - [Linux](https://elinux.org/Developer_Certificate_Of_Origin)
 
 *We commend them for their efforts to facilitate collaboration in their projects.*
+  
+</p></details>
 
